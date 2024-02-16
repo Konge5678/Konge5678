@@ -10,7 +10,7 @@
         <img src="Icons/css.svg" width="50" height="50">
     </a>
     <a href="https://www.javascript.com/">
-        <img src="Icons/javascript.svg" width="50" height="50">
+        <img src="Icons/javascript.svg" width="40" height="40">
     </a>
 <br>
 
