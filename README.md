@@ -31,7 +31,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="Icons/css.svg" width="50">
     <a href="https://www.javascript.com/">
-        <img src="Icons/javascript.svg" width="40">
+        <img src="Icons/javascript.svg" width="40" height=""40>
     </a>
     <a href="https://www.github.com/">
         <img src="Icons/github.svg" width="50">
