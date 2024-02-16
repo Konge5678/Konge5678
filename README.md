@@ -74,6 +74,7 @@
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Konge5678=anuraghazra&show_icons=true&theme=transparent)
     
 </details>
 
