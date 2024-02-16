@@ -14,7 +14,7 @@
 
 ### - 🏬 Intern at Intility AS, Oslo 0191
 <ul align="center">
-    <summary><h2 style="display: inline-block"> Connect With Me🤝</h2></summary>
+    <h2 style="display: inline-block"> Connect With Me🤝</h2>
   </ul>
 
 
