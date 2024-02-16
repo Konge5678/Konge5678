@@ -13,6 +13,9 @@
 ### - 👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315
 
 ### - 🏬 Intern at Intility AS, Oslo 0191
+
+<br>
+
 <ul align="center">
     <h2 style="display: inline-block"> Connect With Me🤝</h2>
   </ul>
