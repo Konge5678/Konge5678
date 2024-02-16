@@ -70,6 +70,10 @@
 ![PMBOK](https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
+<a href="https://www.javascript.com/">
+        <img src="Icons/javascript.svg" width="50">
+    </a>
+
 <!-- 
 Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
 Flutter, GetX, BLoC, MobX.
