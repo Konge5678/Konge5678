@@ -1,16 +1,17 @@
 ## Hello, Kristian here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-
-
 ### About Me
 
-### I am a Norwegian :norway: web and application developer.<br>Currently I go to an IT school here in Norway, but i also love doing work at home.
+### I am a Norwegian <img src="Icons/norway.svg" width="10"> web and application developer.<br>Currently I go to an IT school here in Norway, but i also love doing work at home.
+
 ### I currently go to Hamar cathedral school 🏫, and i am also the marketing manager at our youth company BitForge UB, where i work with marketing and development. <br> Im also a intern at Intility AS and i work there every Thursday <br>
+
 ### I love ❤️ working with tech and enjoy learning new skills/technologies
 
-
 ### - 🧑🏻‍🎓 Student at Hamar katedralskole, Hamar 2315
+
 ### - 👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315
+
 ### - 🏬 Intern at Intility AS, Oslo 0191
 
 <p align="center">
