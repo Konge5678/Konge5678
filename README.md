@@ -73,8 +73,10 @@
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konge5678)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=Konge5678&theme=transparent" align="right"/>
+    </a>
+
     
 </details>
 
