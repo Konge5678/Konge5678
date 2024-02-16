@@ -7,9 +7,9 @@
 
 ### About Me
 
-heihei test
-12234
-hallo
+### - 🧑🏻‍🎓 Student at Hamar katedralskole, Hamar 2315
+### - 👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315
+### - 🏬 Intern at Intility AS, Oslo 0191
 
 <p align="center">
   <a href="mailto:kris.haugsrud@gmnail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
