@@ -74,7 +74,7 @@
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=Konge5678&theme=transparent" align="right"/>
+        <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=Konge5678&theme=transparent" align="left"/>
     </a>
 
     
