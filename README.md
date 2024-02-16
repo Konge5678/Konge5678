@@ -1,14 +1,11 @@
 ## Hello, Kristian here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> <Norwegian/a></td></tr>
 </table>
 
 ### About Me
-
-
 
 <p align="center">
   <a href="mailto:kris.haugsrud@gmnail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,17 +25,21 @@
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-
-<a href="https://www.javascript.com/">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="Icons/html.svg" width="50">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="Icons/css.svg" width="50">
+    <a href="https://www.javascript.com/">
         <img src="Icons/javascript.svg" width="50">
     </a>
 
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
+<!--
+Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate.
 Flutter, GetX, BLoC, MobX.
 GitHub, GitLab, Docker, Ansible
 Kotlin, Firebase.
-Ant, Maven, Gradle, 
+Ant, Maven, Gradle,
 VSCode, Eclipse, IntelliJ IDEA.
 HTML, CSS, JavaScript, TypeScript.
 postgresql, pgadmin, mysql, sqlite.
@@ -48,17 +49,17 @@ linux
 -->
 </details>
 
-<!-- 
+<!--
 jquery, sass
 nestjs, nodejs, redis, nginx,
 rest, graphql, grpc
 apache kafka,
 google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
+oracle, mariadb, mongodb,
 Kubernates, puppet, github actions
 python, c, cpp, arduino
 php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
+blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
@@ -111,7 +112,3 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <hr/>
-
-
-
-
