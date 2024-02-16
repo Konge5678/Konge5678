@@ -30,7 +30,7 @@
         <img src="Icons/ae.svg" width="50">
     </a>
     <a href="https://code.visualstudio.com/">
-        <img src="IIcons/vscode.svg" width="50">
+        <img src="Icons/vscode.svg" width="50">
     </a>
    <a href="https://figma.com/">
         <img src="Icons/figma.svg" width="50">
