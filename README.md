@@ -1,12 +1,13 @@
-## Hello, Kristian here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hello, Kristian here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ## Programming Languages
+
 <div float="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="Icons/html.svg" width="50">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="Icons/css.svg" width="50">
+        <img src="Icons/css.svg" width="50" height="50">
     </a>
     <a href="https://www.javascript.com/">
         <img src="Icons/javascript.svg" width="50">
@@ -14,6 +15,7 @@
 <br>
 
 ## Technologies i use:
+
 <div float="left">
     <a href="https://www.adobe.com/no/products/illustrator/campaign/pricing.html?gclid=CjwKCAiAq4KuBhA6EiwArMAw1IfnwKIq3tN61kPeIRxY4wSZ-Zd0FNXV5N_hskuICvflzNW6SbruSRoCFMsQAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=CjwKCAiAq4KuBhA6EiwArMAw1IfnwKIq3tN61kPeIRxY4wSZ-Zd0FNXV5N_hskuICvflzNW6SbruSRoCFMsQAvD_BwE:G:s&s_kwcid=AL!3085!3!597287462549!e!!g!!adobe%20illustrator!1480122696!60147184954&gad_source=1">
         <img src="md/img/adobe_ai.svg" width="50">
