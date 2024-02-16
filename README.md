@@ -34,7 +34,10 @@
         <img src="Icons/javascript.svg" width="40" height="40">
     </a>
     <a href="https://www.github.com/">
-        <img src="Icons/github.svg" width="50">
+        <img src="Icons/github.svg"  width="40" height="40">
+    </a>
+    <a href="https://www.figma.com/">
+        <img src="Icons/figma.svg"  width="40" height="40">
     </a>
 
 <!--
