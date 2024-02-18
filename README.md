@@ -20,7 +20,6 @@
     <h2 style="display: inline-block"> Connect With Me🤝</h2>
   </ul>
 
-
 <p align="center">
   <a href="mailto:kris.haugsrud@gmnail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kristian_haugsrud/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -84,6 +83,4 @@
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=Konge5678&theme=blue_navy" align="left"/>
     </a>
 
-    
 </details>
-
