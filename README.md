@@ -2,7 +2,7 @@
 
 ### About Me
 
--  ""<img src="Icons/norway.svg" width="16"> Norwegian web and application developer 
+-  <img src="Icons/norway.svg" width="16"> Norwegian web and application developer 
 - ❤️I love working with tech and enjoy learning new skills/technologies 
 - 🏫Student at Hamar katedralskole, Hamar 2315 
 - 👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315 
