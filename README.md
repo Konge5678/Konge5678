@@ -2,26 +2,11 @@
 
 ### About Me
 
-### I am a Norwegian <img src="Icons/norway.svg" width="20"> web and application developer.<br>Currently I go to an IT school here in Norway, but i also love doing work at home.
-
-### I currently go to Hamar cathedral school 🏫, and i am also the marketing manager at our youth company BitForge UB, where i work with marketing and development. <br> Im also a intern at Intility AS and i work there every Thursday <br>
-
-### I love ❤️ working with tech and enjoy learning new skills/technologies
-
-### - 🧑🏻‍🎓 Student at Hamar katedralskole, Hamar 2315
-
-### - 👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315
-
-### - 🏬 Intern at Intility AS, Oslo 0191
-
-
 <img src="Icons/norway.svg" width="20"> Norwegian web and application developer
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
-
+ I love ❤️ working with tech and enjoy learning new skills/technologies
+🏫Student at Hamar katedralskole, Hamar 2315
+👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315
+🏬 Intern at Intility AS, Oslo 0191
 <br>
 
 <ul align="center">
