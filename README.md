@@ -2,11 +2,11 @@
 
 ### About Me
 
-<img src="Icons/norway.svg" width="20"> Norwegian web and application developer
- I love ❤️ working with tech and enjoy learning new skills/technologies
-🏫Student at Hamar katedralskole, Hamar 2315
-👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315
-🏬 Intern at Intility AS, Oslo 0191
+<img src="Icons/norway.svg" width="20"> Norwegian web and application developer .\
+ I love ❤️ working with tech and enjoy learning new skills/technologies .\
+🏫Student at Hamar katedralskole, Hamar 2315 .\
+👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315 .\
+🏬 Intern at Intility AS, Oslo 0191 .\
 <br>
 
 <ul align="center">
