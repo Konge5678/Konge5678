@@ -6,7 +6,7 @@
 - ❤️I love working with tech and enjoy learning new skills/technologies 
 - 🏫Student at Hamar katedralskole, Hamar 2315 
 - 👨🏼‍💻 Marketing manager at BitForge UB, Hamar 2315 
-- 🏬 Intern at Intility AS, Oslo 0191 
+- 🏬 Intern at Intility AS, Oslo 0191 📅 November, 2023 - April, 2024 
 <br>
 
 <ul align="center">
